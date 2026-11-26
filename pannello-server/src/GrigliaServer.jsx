@@ -1,4 +1,4 @@
-import { SchedaServer } from "./schedaServer";
+import { SchedaServer } from "./SchedaServer";
 
 export function GrigliaServer({ servers }) {
   return (
